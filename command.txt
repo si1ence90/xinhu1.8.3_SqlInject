@@ -1,0 +1,3 @@
+C:\Users\Administrator>python C:\Users\Administrator\Desktop\sqlmapproject-sqlma
+p-1822cc0\sqlmap.py -r C:\Users\Administrator\Desktop\1.txt -p "typeid" -b --lev
+el=3 --risk=2 --dbs
